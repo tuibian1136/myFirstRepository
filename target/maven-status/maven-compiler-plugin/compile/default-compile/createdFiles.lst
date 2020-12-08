@@ -1,0 +1,10 @@
+com\baizhi\poem\dao\PoemDAO.class
+com\baizhi\poem\PoemApplication.class
+com\baizhi\poem\service\PoemServiceImpl.class
+com\baizhi\poem\elastic\repository\PoemRepository.class
+com\baizhi\poem\service\PoemService.class
+com\baizhi\poem\entity\Category.class
+com\baizhi\poem\controller\PoemController.class
+com\baizhi\poem\config\RestClientConfig.class
+com\baizhi\poem\entity\Poem.class
+com\baizhi\poem\controller\DicController.class
